@@ -36,3 +36,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+
+# 关键修复：Firebase 密钥文件（精准匹配报错中的路径）
+firebase/src/main/resources/firebase-service-account.json
