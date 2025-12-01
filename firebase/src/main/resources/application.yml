@@ -6,7 +6,7 @@ firebase:
     # 放在 resources 下直接用 classpath
     path: classpath:firebase-service-account.json
   # 项目 id，可以在 Firebase 控制台 Project settings 里看到
-  project-id: my001-384cf
-  database-url: https://my001-384cf-default-rtdb.asia-southeast1.firebasedatabase.app
+  project-id: mytest-62127
+  database-url: https://mytest-62127-default-rtdb.asia-southeast1.firebasedatabase.app
 
   #https://<你的项目ID>-default-rtdb.firebaseio.com
